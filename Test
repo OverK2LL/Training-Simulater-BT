@@ -2,7 +2,7 @@ local lib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scri
 
 _G.closeBind = Enum.KeyCode.C
 
-local win = lib:Window("Training Sim TS", "Signed By OverK2ll", Color3.fromRGB(255, 0, 0), _G.closeBind)
+local win = lib:Window("Training Sim TS", "Made By OverK2ll", Color3.fromRGB(255, 0, 0), _G.closeBind)
 
 local tab = win:Tab("Main", "http://www.roblox.com/asset/?id=6023426915")
 
